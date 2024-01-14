@@ -1,12 +1,13 @@
 # ChatGPT-Prompt-Engineering
 
-The notebooks are inspired by the [youtube series](https://www.youtube.com/playlist?list=PL0CKhH7olKJAEjDPF3GKRoM2qP4HsyOF2) and corresponding [DeepLearning.AI course](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) on the topic of prompt engineering. They cover best practices for prompt engineering and demonstrate how to use LLM APIs for a range of tasks, including:
+## Credit
+
+The notebooks follow the free lessons offered in the [youtube series](https://www.youtube.com/playlist?list=PL0CKhH7olKJAEjDPF3GKRoM2qP4HsyOF2) by Isa Fulford and Andrew Ng, although I sometimes use different examples. There is also a corresponding [DeepLearning.AI course](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) on the topic of prompt engineering. They cover best practices for prompt engineering and demonstrate how to use LLM APIs for a range of tasks, including:
 
 - Summarization (e.g., condensing user reviews for conciseness)
 - Inference (e.g., sentiment analysis, topic extraction)
 - Text transformation (e.g., translation, spelling and grammar correction)
 - Text expansion (e.g., automated email composition)
-- Building a custom chatbot
 
 ## Requirements
 
@@ -18,7 +19,7 @@ To set up the project and use the notebooks, follow these requirements:
 2. Install the required Python packages using pip:
 
    ```bash
-   pip install openai python-dotenv
+   pip install openai python-dotenv redlines
    ```
 
 3. Create a `.env` file in the project directory.
@@ -49,3 +50,4 @@ To set up the project and use the notebooks, follow these requirements:
 
 ## Additional Resources
 - https://platform.openai.com/docs/guides/prompt-engineering
+
