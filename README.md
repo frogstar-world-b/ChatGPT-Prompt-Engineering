@@ -47,3 +47,5 @@ To set up the project and use the notebooks, follow these requirements:
    openai.api_key = os.getenv("OPENAI_API_KEY")
    ```
 
+## Additional Resources
+- https://platform.openai.com/docs/guides/prompt-engineering
