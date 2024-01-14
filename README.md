@@ -21,7 +21,7 @@ To set up the project and use the notebooks, follow these requirements:
    pip install openai python-dotenv
    ```
 
-3. Create a `.env` file in the project directory if it doesn't already exist.
+3. Create a `.env` file in the project directory.
 
 4. Add your OpenAI API key to the `.env` file as follows:
 
