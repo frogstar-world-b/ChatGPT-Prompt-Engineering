@@ -1,6 +1,6 @@
 # ChatGPT-Prompt-Engineering
 
-The notebooks are inspired by a the [youtube series](https://www.youtube.com/playlist?list=PL0CKhH7olKJAEjDPF3GKRoM2qP4HsyOF2) and corresponding [DeepLearning.AI course](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) on the topic of prompt engineering. They cover best practices for prompt engineering and demonstrate how to use LLM APIs for a range of tasks, including:
+The notebooks are inspired by the [youtube series](https://www.youtube.com/playlist?list=PL0CKhH7olKJAEjDPF3GKRoM2qP4HsyOF2) and corresponding [DeepLearning.AI course](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) on the topic of prompt engineering. They cover best practices for prompt engineering and demonstrate how to use LLM APIs for a range of tasks, including:
 
 - Summarization (e.g., condensing user reviews for conciseness)
 - Inference (e.g., sentiment analysis, topic extraction)
